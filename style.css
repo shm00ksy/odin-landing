@@ -55,11 +55,11 @@ button {
 }
 
 .description-text {
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 .description-image {
-    margin-right: 50px;
+    margin-right: 100px;
     flex: 0;
 }
 
@@ -107,6 +107,7 @@ button {
     font-style: italic;
     font-weight: 200;
     color: #1F2937;
+    margin: 0 100px;
 }
 
 .quote-source {
