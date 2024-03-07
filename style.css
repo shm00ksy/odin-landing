@@ -95,3 +95,42 @@ button {
 .blurb-text {
     text-align: center;
 }
+
+.quote {
+    background-color: rgb(230, 188, 106);
+    text-align: center;
+    padding: 3em;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1F2937;
+}
+
+.quote-source {
+    text-align: right;
+    margin-right: 100px;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(235, 162, 98);
+    margin: 50px 10em;
+    border-radius: 30px;
+}
+
+.cta-title {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(182, 182, 182);
+    padding: 10px;
+}
